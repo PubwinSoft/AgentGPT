@@ -156,6 +156,9 @@ const Home: NextPage = () => {
                   Assemble, configure, and deploy autonomous AI Agents in your
                   browser.
                 </p>
+                <p>
+                  Sponsor：https://AgentGPT.Bcloud.Store
+                </p>
               </div>
             </div>
 
